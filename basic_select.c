@@ -7,6 +7,7 @@
 
 int main()
 {
+
   //1.先把文件描述符集准备好
   while(1)
   {
@@ -26,4 +27,5 @@ int main()
     
   }
   return 0;
+
 }
